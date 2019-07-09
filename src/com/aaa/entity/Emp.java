@@ -5,10 +5,11 @@ public class Emp {
     //员工姓名
     private  String ename;
 
-
+//asdfasdfs
     //asdfasdf
     private Integer deptno;
     private String loc;
+    //dfasdfasdfasdfdas
 
 
 }
