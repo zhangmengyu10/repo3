@@ -5,6 +5,8 @@ public class Emp {
     //员工姓名
     private  String ename;
 
+    //啊士大夫发射点
     private String loc;
+
 
 }
