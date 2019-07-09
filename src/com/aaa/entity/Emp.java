@@ -4,4 +4,6 @@ public class Emp {
     private Integer empno;
     //员工姓名
     private  String ename;
+    private String loc;
+    
 }
